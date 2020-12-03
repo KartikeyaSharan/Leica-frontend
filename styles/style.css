@@ -338,13 +338,13 @@ footer h1 {
   }
   .soon {
     overflow: hidden;
-    min-height: 80vh;
+    min-height: 70vh;
   }
   .soon img {
     width: 60%;
   }
   .soon h2 {
-    font-size: 8rem;
+    font-size: 5rem;
     text-align: center;
   }
   footer h1 {
